@@ -448,6 +448,7 @@ Swagger permite:
 - Autenticarse mediante JWT utilizando el botón **Authorize**.
 
 La galería de capturas de la interfaz puede consultarse en la sección [Capturas](#capturas).
+
 ---
 
 # Base de datos

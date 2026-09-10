@@ -6,13 +6,13 @@
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
         <version>3.5.14</version>
-        <relativePath/> <!-- lookup parent from repository -->
+        <relativePath/>
     </parent>
     <groupId>com.banco</groupId>
-    <artifactId>api</artifactId>
+    <artifactId>banking-system-api</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>sistema-bancario-api</name>
-    <description>sistema-bancario-api</description>
+    <name>banking-system-api</name>
+    <description>Banking System API</description>
     <url/>
     <licenses>
         <license/>

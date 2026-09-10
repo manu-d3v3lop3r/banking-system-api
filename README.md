@@ -207,13 +207,13 @@ git --version
 ## Clonar el repositorio
 
 ```bash
-git clone https://github.com/TU_USUARIO/sistema-bancario-api.git
+git clone https://github.com/TU_USUARIO/banking-system-api.git
 ```
 
 Accede al directorio del proyecto:
 
 ```bash
-cd sistema-bancario-api
+cd banking-system-api
 ```
 
 ---
@@ -239,7 +239,7 @@ mvn spring-boot:run
 O ejecutando el archivo JAR generado:
 
 ```bash
-java -jar target/sistema-bancario-api.jar
+java -jar target/banking-system-api.jar
 ```
 
 Una vez iniciada, la aplicación estará disponible en:
